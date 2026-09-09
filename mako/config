@@ -1,0 +1,18 @@
+
+# config mako
+
+max-history=3
+default-timeout=5000
+width=600
+height=1000
+on-notify=exec mpv ~/Downloads/universfield-new-notification-040-493469.mp3
+padding=16
+anchor=bottom-right
+
+# aparencia
+
+border-size=1
+border-color=#9d7cd8
+text-color=#a9b1d6
+background-color=#1a1b26
+
