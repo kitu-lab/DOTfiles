@@ -1,0 +1,13 @@
+oi
+esse
+e
+meu
+rice
+tabom
+eu
+nomeei
+ele
+de
+midnight
+kitu
+ok?
