@@ -1,0 +1,46 @@
+  * {
+ 	txt: #a9b1d6;
+	at: #bb9af7;
+	ac: #9d7cd8;
+	fg: #414868;
+	bg: #1a1b26dd;
+	background-color: transparent;
+	foreground-color: @fg;
+	text-color: @txt;
+}
+
+
+  window {
+	padding: 10px;
+	height: 200;
+	width: 800;
+	background-color: @bg;
+	foreground-color: @fg;
+	border: 1px;
+	border-color: @ac;
+}
+  element {
+  	padding: 5px;
+  	background-color: transparent;
+	foreground-color: transparent;
+}
+  element selected {
+	padding: 5px;
+	background-color: @fg;
+	color: transparent;
+}
+  entry {
+	background-color: transparent;
+	foreground-color: @ac;
+	text-color: @txt;
+	placeholder: "...";
+}
+  element-text {
+	background-color: inherit;
+	text-color: @txt;
+}
+  text {
+  	background-color: transparent;
+	foreground-color: @txt;
+}
+
